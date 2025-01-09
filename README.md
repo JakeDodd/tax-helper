@@ -2,7 +2,7 @@
 
 Current Set-up steps:
 
-- Install python3<br>
+- Install python 3.12.3<br>
 - Setup & activate python venv in project dir<br>
     - Unix:
 
