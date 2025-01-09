@@ -6,17 +6,17 @@ Current Set-up steps:
 - Setup & activate python venv in project dir<br>
     - Unix:
 
-```
-python3 -m venv venv
-source venv/bin/activate && venv/bin/activate
-```
+        ```
+        python3 -m venv venv
+        source venv/bin/activate && venv/bin/activate
+        ```
 
     - Windows PS:
 
-```
-python -m venv venv
-venv\Scripts\activate
-```
+        ```
+        python -m venv venv
+        venv\Scripts\activate
+        ```
 
 - Install requirements<br>
 
